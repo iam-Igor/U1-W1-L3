@@ -1,6 +1,6 @@
 .head {text-align: center;}
 .head img {width: 200px;}
-.head h3{padding-top: 10px;background:linear-gradient(rgba(253,251,241,255),rgba(253,251,241,255)); height:50px; border-top: solid rgba(255,219,131,255); }
+.head h3{padding-top: 10px;background:linear-gradient(rgba(253,251,241,255),rgba(253,251,241,255)); height:50px; border-top: solid rgba(255,219,131,255);color:#095251 }
 .player p {color:darkgray}
 .aside-main h2 {font-size:2em;}
 .aside-main p {font-size: 1.2em; font-weight:bold;}

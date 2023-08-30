@@ -1,10 +1,12 @@
 .head {text-align: center;}
 .head img {width: 200px;}
-.head h3{background:linear-gradient(rgba(253,251,241,255),rgba(253,251,241,255)); height:50px; border-top: solid rgba(255,219,131,255); }
+.head h3{padding-top: 10px;background:linear-gradient(rgba(253,251,241,255),rgba(253,251,241,255)); height:50px; border-top: solid rgba(255,219,131,255); }
 .player p {color:darkgray}
 .aside-main h2 {font-size:2em;}
 .aside-main p {font-size: 1.2em; font-weight:bold;}
 h4 {font-weight: 400;}
-footer h2 {font-weight: 500;font-size:1.5em;}
-#external-src > h2 {color:red; margin:0;} 
+
+#external-src > h2 {color:rgb(202, 34, 34); margin:0;border-left: solid rgba(255,219,131,255); padding-left: 4px;} 
+.player p {text-align: center;}
 #content {margin-left: auto;margin-right: auto; width: 600px;}
+.end {font-weight: 500;font-size: 0.8em;}
